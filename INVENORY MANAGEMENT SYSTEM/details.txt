@@ -1,0 +1,37 @@
+1. Inventory Management System
+● Detailed Steps:
+1. Design a structure to store item details .
+(e.g., ID, name, quantity, price,........).
+2. Create functions to add, update, and delete items with 
+validation checks.
+3. Use pointers for efficient access and 
+manipulation of the item list.
+4. Implement a search function for item lookup.
+5. Integrate file handling to save changes to a 
+text or binary file for data persistence.
+6. Develop a user-friendly menu-driven interface 
+to navigate options.
+7. Add error-handling routines to handle 
+incorrect inputs and file I/O errors.
+
+    if (item.item_qty < qty) {
+                system("clear");
+                printf(RED "\n\t\t\tNot enough stock.\n" RESET);
+                printf("\t\t\tRequest this item? (1 = Yes, 0 = No): ");
+                scanf("%d",&choice);
+                if(choice==1){request_item(id, qty);}
+                if(choice==0){
+        printf(BLUE"\t\t\tPress 1 to go to Menu or 0 to Exit: ");
+        scanf("%d", &exit);
+        system("clear");
+        if (exit == 1) goto menu;
+        if(exit==0) goto exit;}}
+                fclose(old);
+                fclose(new);
+                remove("update.dat");
+                return;
+                 if (!found) {
+        remove("update.dat");
+        printf(RED "\n\t\t\tItem ID not found.\n" RESET);
+        return;
+    }
