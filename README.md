@@ -1,6 +1,7 @@
 A simple Inventory Management System (works only on linux environment).😀
                              
    ---timeline----(2025)
+   
 10th november-Made a sketch the of the system
 
 11th november-refered github repos and books for a greater picture.
@@ -8,8 +9,8 @@ A simple Inventory Management System (works only on linux environment).😀
 12th november-Learnt functions and file handling.
 
 13th november - Implemented what have learnt and added add(),delete(),update() funtions.
-
-and created a structure named s_stock and finalised database storage as data file (.dat) .Created a switch logic to access functions.
+and created a structure named s_stock and finalised database storage as data file (.dat) .
+Created a switch logic to access functions.
 
 14th november- added list() ,dupcheck() function and made frontend enchancements by using horizontal 
 and vertical tabs and system level commands.
