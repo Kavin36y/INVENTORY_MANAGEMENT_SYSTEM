@@ -1,4 +1,4 @@
-A simple Inventory Management System (works only on linux environment).
+A simple Inventory Management System (works only on linux environment).😀
                                ---timeline----
 10th november-Made a sketch the of the system
 
