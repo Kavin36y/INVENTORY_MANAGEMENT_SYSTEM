@@ -1,4 +1,4 @@
-A simple Inventory Management System (works only on linux environment).😀
+A simple Inventory Management System using C file handing and functions.(works only on linux environment).😀
                              
    ---timeline----(2025)
    
