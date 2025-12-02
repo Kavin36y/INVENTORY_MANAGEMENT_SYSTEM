@@ -1,5 +1,7 @@
 A simple Inventory Management System (works only on linux environment).😀
-                               ---timeline----
+                             
+                               
+                              ---timeline----
 10th november-Made a sketch the of the system
 
 11th november-refered github repos and books for a greater picture.
